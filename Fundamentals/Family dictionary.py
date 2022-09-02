@@ -13,7 +13,6 @@ my_family = {
     }
 }
 
-
 for id, info in my_family.items():
     print(id)
     for key in info:

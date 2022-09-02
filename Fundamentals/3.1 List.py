@@ -1,3 +1,4 @@
+#Array C++ -> List Python
 fruit_list = ["Watermelon", "Dragon Fruit", "Apple", "Blackberry"]
 print(fruit_list)
 print(fruit_list[1])    #Start at 0

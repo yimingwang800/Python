@@ -13,9 +13,9 @@ my_family = {
     }
 }
 
-for id, info in my_family.items():
-    print(id)
-    for key in info:
-        print(" " + key + ':', info[key])
+for member, details in my_family.items():
+    print(member)
+    for key in details:
+        print(" " + key + ':', details[key])
     print()
 

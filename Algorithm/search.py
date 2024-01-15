@@ -5,3 +5,4 @@ for i in range(len(list)):
 
 # 1. output num of operations
 # 2. generate array?
+#Big O notation: O(n)

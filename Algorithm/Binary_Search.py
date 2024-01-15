@@ -21,3 +21,4 @@ while(low_index<high_index):
 
 print("The total number of operation is",math.ceil((math.log(len(list),2))))
 print("The total number of actual operation is", count)
+print("There are", len(list), "elements.")
